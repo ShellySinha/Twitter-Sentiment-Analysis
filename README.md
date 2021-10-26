@@ -8,7 +8,7 @@ It contains two fields for the tweet and label, where label(category) '1' denote
 The objective is need to predict the labels on the test datasets.
 
 
-For the training models, provide a labelled dataset 162980 tweets. The dataset provided in the form of csv file.
+For the training models, provide a dataset 162980 tweets. The dataset provided in the form of csv file.
 
 
 In the csv file we have clean_text and category data.
